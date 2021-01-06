@@ -42,7 +42,7 @@ body {
   background: #aaa;
 }
 #jumbo {
-  background-image: url('../images/SpiderMan.jpg');
+  background-image: url('SpiderMan.jpg');
   background-position: center center;
   min-height: 200px;
   text-align: center;
